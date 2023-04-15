@@ -2,10 +2,7 @@
 
 
 ## User page: 
-[User Page Link](https://capstone-2-six.vercel.app/)
-
-![User page](https://user-images.githubusercontent.com/115157278/212227554-63f7cc12-3f5a-4929-a7e5-be11bfef62ae.png)
-
+[
 All functions in this page: 
 
 * User can add their favourite items to cart
@@ -19,9 +16,7 @@ All functions in this page:
   * Filter with brand
   * Search the name of item
 ## Admin page: 
-[Admin Page Link](https://capstone-2-six.vercel.app/admin.html)
 
-![Admin Page](https://user-images.githubusercontent.com/115157278/212229467-cf7a6734-59d3-4e3f-b3e1-bac19813da45.png)
 
 All functions in this page: 
 
